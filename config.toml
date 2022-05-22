@@ -49,7 +49,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
-  
+
 ############################## navigation ###############################
 
 # main menu
@@ -82,7 +82,7 @@ hasChildren = true
   parent = "Pages"
   name = "Service"
   URL = "service"
-  
+
 [[menu.main]]
 name = "Contact"
 URL = "contact"
@@ -201,16 +201,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-########################### French language ############################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
