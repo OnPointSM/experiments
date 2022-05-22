@@ -88,26 +88,7 @@ name = "Contact"
 URL = "contact"
 weight = 5
 
-# footer menu
-[[menu.footer]]
-name = "service"
-URL = "service"
-weight = 1
 
-[[menu.footer]]
-name = "about"
-URL = "about"
-weight = 2
-
-[[menu.footer]]
-name = "blog"
-URL = "blog"
-weight = 3
-
-[[menu.footer]]
-name = "pricing"
-URL = "pricing"
-weight = 4
 
 
 #################### default parameters ################################
@@ -179,20 +160,6 @@ name = "Facebook"
 icon = "ti-facebook"
 link = "#"
 
-[[params.social]]
-name = "Twitter"
-icon = "ti-twitter-alt"
-link = "#"
-
-[[params.social]]
-name = "Vimeo"
-icon = "ti-vimeo-alt"
-link = "#"
-
-[[params.social]]
-name = "Github"
-icon = "ti-github"
-link = "#"
 
 ########################### English language ###########################
 [Languages.en]
@@ -202,4 +169,3 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
