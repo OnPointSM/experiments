@@ -9,12 +9,12 @@ about:
     - title : "Our Mission"
       image : "images/about/bg-1.jpg"
       content : "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti  distinctio ."
-          
+
     # about item loop
     - title : "Our Vission"
       image : "images/about/about.jpg"
       content : "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti  distinctio ."
-          
+
     # about item loop
     - title : "Our Approach"
       image : "images/about/home-8.jpg"
@@ -22,13 +22,13 @@ about:
 
 ##################### Funfacts ######################################
 funfacts:
-  enable : true
+  enable : false
   bg_image : "images/bg/banner-1.jpg"
   # funfact item comes from "data/**/homepage.yml" file.
-      
+
 ############################# Team ##################################
 team:
-  enable: true
+  enable: false
   # team content comes from "data/**/homepage.yml" file
 
 ############################ Testimonial ############################
@@ -41,13 +41,13 @@ testimonial:
       designation : "Excutive Director"
       content: "Neque ipsa consequuntur excepturi quas repudiandae aliquam iste ab laboriosam id facere
               ducimus odio sed officia provident doloribus explicabo, magni, corrupti sit."
-              
+
     # testimonial item loop
     - name : "Mickel hussy"
       designation : "Director"
       content: "Neque ipsa consequuntur excepturi quas repudiandae aliquam iste ab laboriosam id facere
               ducimus odio sed officia provident doloribus explicabo, magni, corrupti sit."
-              
+
     # testimonial item loop
     - name : "James Watson"
       designation : "Excutive manager"
@@ -56,5 +56,5 @@ testimonial:
 
 ######################### clients logo ##################################
 clients_logo:
-  enable : true
+  enable : false
   # clients logo comes from "config.toml" file.
